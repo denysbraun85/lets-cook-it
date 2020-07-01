@@ -1,12 +1,15 @@
 import React from "react";
+import ToggleButton from "../toggle-button";
+import MenuList from "../menu-list";
+
 import './menu.sass'
 
 const Menu = () => {
     return (
-        <ul className="menu">
-           <li className="menu__item">База рецептів</li>
-           <li className="menu__item">Улюблені</li>
-        </ul>
+        <div className="navigation-menubar">
+           <ToggleButton/>
+           <MenuList/>
+        </div>
     )
 };
 
