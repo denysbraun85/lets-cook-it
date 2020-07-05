@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lets-cook-it/static/css/main.6ac00c35.chunk.css",
+    "main.js": "/lets-cook-it/static/js/main.8a9d68dd.chunk.js",
+    "main.js.map": "/lets-cook-it/static/js/main.8a9d68dd.chunk.js.map",
+    "runtime-main.js": "/lets-cook-it/static/js/runtime-main.095c5e7e.js",
+    "runtime-main.js.map": "/lets-cook-it/static/js/runtime-main.095c5e7e.js.map",
+    "static/js/2.4529b77d.chunk.js": "/lets-cook-it/static/js/2.4529b77d.chunk.js",
+    "static/js/2.4529b77d.chunk.js.map": "/lets-cook-it/static/js/2.4529b77d.chunk.js.map",
+    "index.html": "/lets-cook-it/index.html",
+    "precache-manifest.f209113dc1db0f4db85dc38d2f1772f4.js": "/lets-cook-it/precache-manifest.f209113dc1db0f4db85dc38d2f1772f4.js",
+    "service-worker.js": "/lets-cook-it/service-worker.js",
+    "static/css/main.6ac00c35.chunk.css.map": "/lets-cook-it/static/css/main.6ac00c35.chunk.css.map",
+    "static/js/2.4529b77d.chunk.js.LICENSE.txt": "/lets-cook-it/static/js/2.4529b77d.chunk.js.LICENSE.txt",
+    "static/media/kitchen_bg.jpg": "/lets-cook-it/static/media/kitchen_bg.5abdeed0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.095c5e7e.js",
+    "static/js/2.4529b77d.chunk.js",
+    "static/css/main.6ac00c35.chunk.css",
+    "static/js/main.8a9d68dd.chunk.js"
+  ]
+}
