@@ -4,13 +4,21 @@ import MenuList from "../menu-list";
 
 import './menu.sass'
 
-const Menu = () => {
+const Menu = ({toggleButton, onToggleMenu}) => {
+
     return (
         <div className="navigation-menubar">
-           <ToggleButton/>
-           <MenuList/>
+            <ToggleButton
+                toggleButton={toggleButton}
+                onToggleMenu={onToggleMenu}
+            />
+            <MenuList
+                toggleButton={toggleButton}
+                onToggleMenu={onToggleMenu}
+            />
         </div>
     )
+
 };
 
 export default Menu;
